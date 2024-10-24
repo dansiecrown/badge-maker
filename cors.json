@@ -1,0 +1,9 @@
+[
+    {
+      "origin": ["https://msrepresented.com"],
+      "method": ["GET", "PUT", "POST", "DELETE"],
+      "responseHeader": ["Content-Type", "Content-Disposition"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  
